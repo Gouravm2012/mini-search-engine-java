@@ -11,3 +11,17 @@ Technologies:
 - Java
 - Collections Framework
 - File Handling
+
+Output:
+
+Search word: Java
+
+[doc1.txt, doc2.txt]
+
+Search word: backend
+
+[doc2.txt]
+
+Search word: ARE
+
+No results found
